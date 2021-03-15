@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zrmartin71
 - 👀 I’m interested in Cybersecurity, CTFs, and TryHackMe rooms
 - 🌱 I’m currently learning everthing cyber!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on CTF competitions :)
 - 📫 How to reach me you: You can find me on LinkedIn: https://www.linkedin.com/in/zoe-martin-b6a685161/
 
 <!---
