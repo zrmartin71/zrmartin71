@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Zoe
 - 👀 I’m interested in Cybersecurity, CTFs, and TryHackMe and HackTheBox rooms
 - 🌱 I’m currently learning everything cyber!
-- 💞️ I’m looking to collaborate on CTF competitions :)
 - 📫 How to reach me: You can find me on LinkedIn: https://www.linkedin.com/in/zoe-martin-b6a685161/
 
 <!---
